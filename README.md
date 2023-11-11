@@ -11,7 +11,17 @@
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,nodejs,ruby,docker,aws,js,ts" />
+        <img src="https://skillicons.dev/icons?i=python,ruby,nodejs" />
+    </a>
+</p>
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react" />
+    </a>
+</p>
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mongo" />
     </a>
 </p>
 <!--
